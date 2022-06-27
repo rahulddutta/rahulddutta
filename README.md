@@ -11,7 +11,7 @@ I am a self learner. I started with HTML, CSS and JavaScript. Then started learn
 * 🚀  I'm currently working on [Mentor Codes](http://mentorcodes.com/)
 * 🧠  I'm learning DSA with Java
 * 🤝  I'm open to collaborating on opensource
-* ⚡  I'am a rebel at a heart
+* ⚡  I'am a rebel at heart
 
 ### Skills
 
