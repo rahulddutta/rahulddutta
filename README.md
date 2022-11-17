@@ -4,11 +4,11 @@ Hi 👋 My name is Rahul Dutta
 Web Developer and Mentor
 ------------------------
 
-I am a self learner. I started with HTML, CSS and JavaScript. Then started learning different frameworks and libraries along with it. Now presently I am working with React and material ui. I have joined ITC Infotech as of now and doing side hustle with my own startup mentorcodes.com where I teach coding to the next gen teens.
+I am a self learner. I started with HTML, CSS and JavaScript. Then started learning different frameworks and libraries along with it. Now presently I am working with React and material ui. I have joined @ITC Infotech as of now and mentoring future developers mentorcodes.com where I teach coding to the next gen teens.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [rahuldutta.rd11@gmail.com](mailto:rahuldutta.rd11@gmail.com)
-* 🚀  I'm currently working on [Mentor Codes](http://mentorcodes.com/)
+* 🚀  I'm currently working on [Mentor Codes](https://mentorcodes.com/)
 * 🧠  I'm learning DSA with Java
 * 🤝  I'm open to collaborating on opensource
 * ⚡  I'am a rebel at heart
